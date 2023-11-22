@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    background-color: white;
+    text-align: center;
+    margin-top: 0%;
+}
+
+.logotipo {
+    width: 40%;
+}
+
+img {
+    width: 25%;
+    padding: 1%;
+}
+
+label {
+    font-size: 150%;
+}

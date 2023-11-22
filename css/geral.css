@@ -1,0 +1,30 @@
+header {
+    background-color: #333;
+    text-align: center;
+    margin-bottom: 0%;
+}
+
+.topnav {
+    background: rgb(204, 204, 204);
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+    font-size: 130%;
+}
+
+.topnav a {
+    color: black;
+    padding: 1% 2%;
+    text-decoration: none;
+}
+
+.topnav .botaoM:hover {
+    background-color: #b4b4b4;
+    transform: scale(1.05);
+}
+
+.topnav .botaoM:active {
+    background-color: #999999;
+}
